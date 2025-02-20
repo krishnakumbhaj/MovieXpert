@@ -31,7 +31,7 @@ Welcome to the **Movie Recommendation System**! This project leverages **Natural
 ## 🏁 Installation & Setup
 1️⃣ Clone this repository:
 ```bash
- git clone https://github.com/yourusername/Movie-Recommendation-System.git
+ git clone https://github.com/krishnakumbhaj/MovieXpert.git
 ```
 
 2️⃣ Install dependencies:
