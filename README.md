@@ -41,6 +41,7 @@ pip install -r requirements.txt
 3️⃣ Run the application:
 ```bash
 python code.py
+```
 
 3️⃣ Run the application:
 ```bash
