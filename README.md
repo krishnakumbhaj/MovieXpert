@@ -26,7 +26,7 @@ Welcome to the **Movie Recommendation System**! This project leverages **Natural
 5. **User Interaction:** The user selects a movie, and the system returns **top 5 similar movies** with posters.  
 
 ## 📷 UI Preview
-![App Screenshot](https://via.placeholder.com/800x400?text=Movie+Recommendation+System+UI)
+![Movie Recommendation System](images/app_screenshot.png)
 
 ## 🏁 Installation & Setup
 1️⃣ Clone this repository:
